@@ -1,2 +1,1 @@
-# AlgoReports
-Reports written about topics in algoritms. 
+I will be using this repo to post any computer science related material that I create using LaTeX. 
